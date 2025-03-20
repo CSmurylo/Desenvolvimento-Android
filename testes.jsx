@@ -50,3 +50,5 @@ const styles = StyleSheet.create({
     textAlign: 'center', // Correção no textAlign
   },
 });
+
+//data: 20/03/2025
